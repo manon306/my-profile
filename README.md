@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PHP,Mysql,**
 
-- 📫 How to reach me **mh8391802@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
